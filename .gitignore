@@ -8,5 +8,6 @@
 /Objects/src/PersonalTestSet
 /Objects/src/models/model_200x200.h5
 /Objects/src/models/model_400x400.h5
-
 /Objects_Detection/darkflow-master
+/AudioRecognition&RNN/data
+/AudioRecognition&RNN/.ipynb_checkpoints
