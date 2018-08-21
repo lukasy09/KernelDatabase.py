@@ -9,5 +9,8 @@
 /Objects/src/models/model_200x200.h5
 /Objects/src/models/model_400x400.h5
 /Objects_Detection/darkflow-master
-/AudioRecognition&RNN/data
+/AudioRecognition&RNN/digit_dataset
 /AudioRecognition&RNN/.ipynb_checkpoints
+/AudioRecognition&RNN/SpeechRecon/venv
+/AudioRecognition&RNN/SpeechRecon/src/testfiles
+/AudioRecognition&RNN/SpeechRecon/.idea
