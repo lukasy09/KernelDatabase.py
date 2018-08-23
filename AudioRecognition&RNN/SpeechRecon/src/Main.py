@@ -4,7 +4,7 @@ import os
 import sys
 from sklearn.preprocessing import LabelEncoder
 from keras.utils.np_utils import to_categorical
-from keras.models import  load_model
+from keras.models import load_model
 
 
 class AudioDataGenerator:
