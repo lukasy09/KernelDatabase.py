@@ -16,4 +16,5 @@
 /AudioRecognition&RNN/dataset_animals
 /GPU/.ipynb_checkpoints
 /SeaTheSound/.ipynb_checkpoints
-/SeaTheSound/data
+/SeaTheSound/data/cat
+/SeaTheSound/data/dog
