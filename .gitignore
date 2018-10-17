@@ -1,7 +1,4 @@
-/Dogs&Cats/dataset
-/Dogs&Cats/src/.ipynb_checkpoints
-/Dogs&Cats/src/test
-/Dogs&Cats/src/Models
+/Dogs&Cats/
 /Objects/dataset
 /Objects/dataset2
 /Objects/src/.ipynb_checkpoints
@@ -15,7 +12,6 @@
 /AudioRecognition&RNN/dataset
 /AudioRecognition&RNN/dataset_animals
 /GPU/.ipynb_checkpoints
-/SeaTheSound/.ipynb_checkpoints
-/SeaTheSound/data/cat/
-/SeaTheSound/data/dog/
-/TheSenseOfTheUniverse/data
+/SeaTheSound/
+/TheSenseOfTheUniverse/
+/FASHION_MNIST/data
